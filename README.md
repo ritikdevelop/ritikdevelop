@@ -6,9 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikdevelop" alt="ritikdevelop" /></a> </p>
 
-- 🔭 I’m currently working on [Spotify Clone App using React.js](https://github.com/ritikdevelop/Spotify-App/tree/main/spotify-clone)
-
-- 🌱 I’m currently learning **React native and Some other frameworks like: Vue.js, Next.js and Redux**
+- 🔭 I’m currently working on Uber Clone App using React Native
+- 🌱 I’m currently learning **React native and Some other frameworks like: Next.js and Redux**
 
 - 👨‍💻 All of my projects are available at [https://ritikdevelop.github.io/Portfolio---Website/](https://ritikdevelop.github.io/Portfolio---Website/)
 
